@@ -1,0 +1,22 @@
+.header{
+    background-color: lightgoldenrodyellow;
+}
+h1{ 
+    color:lightgreen;
+}
+
+.oragami-pics{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-size: 20px;
+    color: rosybrown;
+}
+
+.oragami-pic1{
+    background-color: navy;
+}
+
+.oragami-pic2{
+    background-color: darkolivegreen;
+}
